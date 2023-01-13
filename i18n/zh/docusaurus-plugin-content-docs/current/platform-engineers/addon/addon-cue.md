@@ -459,3 +459,5 @@ $ vela addon enable fluxcd onlyHelmComponents=true
 ## 例子
 
 一个 CUE 定义应用描述文件的例子就是 [ingress-nginx](https://github.com/kubevela/catalog/tree/master/addons/ingress-nginx/template.cue) 插件。
+
+[这里](https://github.com/kubevela/catalog#create-an-addon) 有一些关于，如何通过 CUE 定义一个插件的最佳实践可供参考。

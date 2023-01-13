@@ -449,3 +449,4 @@ The `fluxcd-kustomize-controller` component won't be added to the application. T
 
 An example is [ingress-nginx](https://github.com/kubevela/catalog/tree/master/addons/ingress-nginx) addon. All files included in this addon are all CUE typed.
 
+[Here](https://github.com/kubevela/catalog#create-an-addon) are some best practices drawn from real-world addons that you can refer to if you plan to implement similar features in your addon.
